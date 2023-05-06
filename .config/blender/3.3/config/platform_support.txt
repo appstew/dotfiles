@@ -1,0 +1,1 @@
+{NVIDIA Corporation/NVIDIA GeForce RTX 2060 with Max-Q Design/PCIe/SSE2/4.5.0 NVIDIA 530.30.02}=SUPPORTED

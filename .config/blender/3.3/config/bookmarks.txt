@@ -1,0 +1,8 @@
+[Bookmarks]
+[Recent]
+/800GB/video/
+/home/appstew/Downloads/
+/tmp/
+/usr/share/fonts/liberation-sans/
+/usr/share/fonts/adobe-source-code-pro/
+/usr/share/fonts/redhat/
